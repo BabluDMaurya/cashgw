@@ -1,0 +1,9 @@
+[28-May-2019 09:37:55 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/devbetadelivery/public_html/cash-gw/dashboard/category.php on line 604
+[28-May-2019 09:37:55 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/devbetadelivery/public_html/cash-gw/dashboard/category.php on line 604
+[10-Jun-2019 07:33:46 UTC] PHP Fatal error:  Call to a member function first() on null in /home/devbetadelivery/public_html/cash-gw/dashboard/login.php on line 11
+[10-Jun-2019 07:33:49 UTC] PHP Fatal error:  Call to a member function first() on null in /home/devbetadelivery/public_html/cash-gw/dashboard/login.php on line 11
+[10-Jun-2019 08:21:11 UTC] PHP Fatal error:  Call to a member function first() on null in /home/devbetadelivery/public_html/cash-gw/dashboard/login.php on line 11
+[10-Jun-2019 08:21:14 UTC] PHP Fatal error:  Call to a member function first() on null in /home/devbetadelivery/public_html/cash-gw/dashboard/login.php on line 11
+[10-Jun-2019 12:17:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/devbetadelivery/public_html/cash-gw/dashboard/test.php on line 57
+[10-Jun-2019 13:48:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/devbetadelivery/public_html/cash-gw/dashboard/forgot.php on line 78
+[10-Jun-2019 13:48:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/devbetadelivery/public_html/cash-gw/dashboard/forgot.php on line 78

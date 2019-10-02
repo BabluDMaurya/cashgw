@@ -1,0 +1,86 @@
+<?php
+
+return [
+    'DevName' => 'Bablu Maurya',
+    'AdminName' => 'Bablu Maurya',
+    //KYC MESSAGE
+    'KYCVerify'=>'Your Kyc verified.Please wait for admin Verification.',
+    //User Status
+    'Userverify'=>'','User email not verify.',
+    'Kycnotfill'=>'Kyc not fill.',
+    'Kycverify'=>'Kyc email not verify.',
+    'Adminreject'=>'User Rejected By admin.',
+    'AdminNotverify'=>'Not verify by admin.',
+    'Accdelete'=>'Account Deleted.',
+    'Activeuser'=>'User Active',
+    //send request
+    'NoAction'=>'User not allow for this action.',
+    'RequestSuccess'=>'Request Sent Successfully.',
+    'MoneySendSuccess'=>'Money send Successfully.',
+    'SendMoneyTitle'=>'Send Money',
+    'SendMoneyDesc'=>'Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard',
+    'RequestPaymentTitle'=>'Request Money',
+    'RequestPaymentDesc'=>'Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard',
+    'UserNotExits'=>'Request pending.Cashgw send a mail to this email.when he/she register then your request proceeds.',
+    //MODEL POPUP MESSAGE
+    'RequestForBalance' => 'You have not enough balance.Select option and request for money',
+    'AcceptRequest' => 'Are you sure want to send Money', 
+    'EditRequest'=> 'Edit bellow your sent Request',
+    'AcceptRequestSuccess' => 'Successfully request of the payment accepted',    
+    'EditRequestSuccess'=> 'Your sent request successfully edited.',
+    'RejectRequest' => 'Are you sure want to reject the request',
+    'RejectRequestSuccess' => 'Payment request rejected successfully.', 
+    'RejectSentRequest'=>'Are you sure want to reject the request',
+    'RejectSentRequestSuccess' => 'Sent request rejected successfully.', 
+    //TOLTIP MESSAGE
+    'NoBalanceToltip' => 'No enough balance!',
+    // EXCEPTION ERROR MESSAGE
+    'DecryptException' => 'You are logout',
+    'QueryException' => 'Error on database query',
+    'Exception'=>'Error on code',
+    
+    //Mail MESSAGE
+    'AdminMail' => 'bablu@wdipl.com',
+    'MailFailures' => 'Mail was not sucessfully sent.',
+    'CCID'=> 'CG',
+    'TID'=> 'CG',
+    //randum number for transfer money otp
+    'RandnumOTPstart' => '100000',
+    'RandnumOTPend' => '999999',
+    'AddBankA/CSuccess'=>'Bank Account Added Successfully',
+    'DelBankA/CSuccess'=> 'Bank Account Deleted Successfully',
+    'EditBankA/CSuccess'=> 'Bank Account Update Successfully',    
+    //Fees Module
+    'DelFeesSuccess'=> 'Default Fees Deleted Successfully',
+    'AddFeesSuccess'=> 'Fees Added Successfully',
+    'EditFeesSuccess'=> 'Fees Edit Successfully',
+    'UserApproved'=> 'User Approved Successfully',
+    'UserRejected'=> 'User Rejected Successfully',
+    'BalanceRequesteToAdmin' => 'Balance Requested From Admin',
+    'BRTA'=> 'Balance request to admin',
+    'CCDES'=> 'Currency Converter Description',
+    'INPAIDNOTE' => 'Invoice Paid Succeefull',
+    'INPENDINGNOTE' => 'Invoice Pending',
+    'TIDNA'=>'Not Available',
+    //Unregister User
+    'UnregisterUserName' => 'BABLU MAURYA',
+    'UnregisterUserRole' => 3,
+    'UnregisterUserID' => 100,
+    //Notification 
+    'SendMoneyNotification'=>'You Recived Money',
+    'RequestPaymentNotification'=>'You Have Payment Request',
+    'RequestAcceptPaymentNotification'=>'You Recived Requested Payment',
+    'RequestRejectPaymentNotification'=>'You Requested Payment Reject',
+    'RecivedNotificationFromAdmin'=>'Payment Request Approve',
+    'SendRequestToAdmin'=>'User Send Request',
+    'SendInvoice'=>'Invoice Recived',
+    'PaidInvoice'=>'Invoice Paid',
+    'AccountdeDeactive'=>'Account Deactive',
+    'AccountActive'=>'Account Active',
+    'ContactSend'=>'New Contact Message',
+    'ManagePaymentRequestToAdmin'=>'New Payment Request',
+    'AprovalRequest'=>'New Account Aproval',
+    'UpdateAccountdeApproval'=>'Approved Updated Account',
+    'AccountUpdatedApproved'=>' Account Updated Approved',
+    'AccountUpdatedCancel'=> 'Account Update Not Approved',
+];
